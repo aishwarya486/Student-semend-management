@@ -1,0 +1,11 @@
+project name:
+student semend system
+
+Description:
+A simple github project demonstrating repository creation,commits,pull and push request
+
+TOOL used:
+Github
+
+Outcome:
+project completed successfully
